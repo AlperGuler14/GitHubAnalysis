@@ -70,3 +70,7 @@ The disk volumes (KB) of projects represent the technical "weight" and complexit
 
 ## Conclusion
 This data shows that GitHub is not just a place where code is shared, but a living organism. When choosing a technology, metrics such as **activity rate**, **corporate support**, and **issue density** should be evaluated together for a healthier decision-making process.
+
+**👨‍💻Author: Alper - Management Information Systems (MIS) Student**
+
+**[https://www.linkedin.com/in/alper-guler/]**
