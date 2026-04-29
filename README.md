@@ -72,3 +72,10 @@ Projelerin disk üzerindeki hacimleri (KB), dillerin teknik "ağırlığını" t
 
 ## Genel Değerlendirme
 Bu veriler, GitHub'ın sadece kod paylaşılan bir yer değil, yaşayan bir organizma olduğunu göstermektedir. Proje seçimi yaparken sadece yıldız sayısına değil; **aktiflik oranı**, **kurumsal destek** ve **hata yoğunluğu** gibi metriklerin bir arada değerlendirilmesi daha sağlıklı bir teknoloji tercihi sağlayacaktır.
+
+**👨‍💻 Yazar Alper - Management Information Systems (MIS) Student**
+
+**[https://www.linkedin.com/in/alper-guler/]**
+
+
+
